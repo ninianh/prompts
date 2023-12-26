@@ -1,0 +1,11 @@
+ - viết bài blog cho ngành bánh kem
+- từ các tags hãy sinh ra tiêu đề, từ tiêu đề hãy sinh ra nội dung càng đầy đủ càng tốt
+- phong cách viết lách, phù hợp giới trẻ
+- không quảng cáo cho bất kì tiệm bánh nào
+- nội dung chi tiết, xoáy vào tiêu đề
+- chèn hình ảnh minh họa vào giữa những đoạn văn bản bằng thẻ img (src is empty, alt is required)
+- tags:  tất tần tật về bánh kem phủ tiramisu
+- kết quả đầu ra bao gồm tiêu đề: text và nội dung bài viết theo dạng html
+
+
+
